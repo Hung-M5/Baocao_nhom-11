@@ -1,0 +1,7 @@
+C:\ASC.Solution\ACS.Models\bin\Debug\netcoreapp1.1\ACS.Models.deps.json
+C:\ASC.Solution\ACS.Models\bin\Debug\netcoreapp1.1\ACS.Models.dll
+C:\ASC.Solution\ACS.Models\bin\Debug\netcoreapp1.1\ACS.Models.pdb
+C:\ASC.Solution\ACS.Models\obj\Debug\netcoreapp1.1\ACS.Models.AssemblyInfo.cs
+C:\ASC.Solution\ACS.Models\obj\Debug\netcoreapp1.1\ACS.Models.dll
+C:\ASC.Solution\ACS.Models\obj\Debug\netcoreapp1.1\ACS.Models.pdb
+C:\ASC.Solution\ACS.Models\obj\Debug\netcoreapp1.1\ACS.Models.csprojResolveAssemblyReference.cache

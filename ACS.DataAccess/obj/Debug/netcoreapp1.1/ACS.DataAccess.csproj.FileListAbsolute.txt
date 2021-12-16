@@ -1,0 +1,11 @@
+C:\ASC.Solution\ACS.DataAccess\bin\Debug\netcoreapp1.1\ACS.DataAccess.deps.json
+C:\ASC.Solution\ACS.DataAccess\bin\Debug\netcoreapp1.1\ACS.DataAccess.dll
+C:\ASC.Solution\ACS.DataAccess\bin\Debug\netcoreapp1.1\ACS.DataAccess.pdb
+C:\ASC.Solution\ACS.DataAccess\bin\Debug\netcoreapp1.1\ACS.Models.dll
+C:\ASC.Solution\ACS.DataAccess\bin\Debug\netcoreapp1.1\ACS.Utilities.dll
+C:\ASC.Solution\ACS.DataAccess\bin\Debug\netcoreapp1.1\ACS.Models.pdb
+C:\ASC.Solution\ACS.DataAccess\bin\Debug\netcoreapp1.1\ACS.Utilities.pdb
+C:\ASC.Solution\ACS.DataAccess\obj\Debug\netcoreapp1.1\ACS.DataAccess.csprojResolveAssemblyReference.cache
+C:\ASC.Solution\ACS.DataAccess\obj\Debug\netcoreapp1.1\ACS.DataAccess.AssemblyInfo.cs
+C:\ASC.Solution\ACS.DataAccess\obj\Debug\netcoreapp1.1\ACS.DataAccess.dll
+C:\ASC.Solution\ACS.DataAccess\obj\Debug\netcoreapp1.1\ACS.DataAccess.pdb

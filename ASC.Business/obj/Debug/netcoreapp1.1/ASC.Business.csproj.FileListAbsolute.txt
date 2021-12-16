@@ -1,0 +1,60 @@
+C:\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Business.deps.json
+C:\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Business.dll
+C:\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Business.pdb
+C:\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.DataAccess.dll
+C:\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Models.dll
+C:\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Utilities.dll
+C:\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.DataAccess.pdb
+C:\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Models.pdb
+C:\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Utilities.pdb
+C:\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.csprojResolveAssemblyReference.cache
+C:\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.AssemblyInfo.cs
+C:\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.dll
+C:\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.pdb
+C:\Users\venvemula\Desktop\Rami\Tech Material\APress\Documents\First Version\Submitted\Content\Ch08\Code\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Business.deps.json
+C:\Users\venvemula\Desktop\Rami\Tech Material\APress\Documents\First Version\Submitted\Content\Ch08\Code\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Business.dll
+C:\Users\venvemula\Desktop\Rami\Tech Material\APress\Documents\First Version\Submitted\Content\Ch08\Code\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Business.pdb
+C:\Users\venvemula\Desktop\Rami\Tech Material\APress\Documents\First Version\Submitted\Content\Ch08\Code\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.DataAccess.dll
+C:\Users\venvemula\Desktop\Rami\Tech Material\APress\Documents\First Version\Submitted\Content\Ch08\Code\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Models.dll
+C:\Users\venvemula\Desktop\Rami\Tech Material\APress\Documents\First Version\Submitted\Content\Ch08\Code\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Utilities.dll
+C:\Users\venvemula\Desktop\Rami\Tech Material\APress\Documents\First Version\Submitted\Content\Ch08\Code\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.DataAccess.pdb
+C:\Users\venvemula\Desktop\Rami\Tech Material\APress\Documents\First Version\Submitted\Content\Ch08\Code\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Models.pdb
+C:\Users\venvemula\Desktop\Rami\Tech Material\APress\Documents\First Version\Submitted\Content\Ch08\Code\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Utilities.pdb
+C:\Users\venvemula\Desktop\Rami\Tech Material\APress\Documents\First Version\Submitted\Content\Ch08\Code\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.csprojResolveAssemblyReference.cache
+C:\Users\venvemula\Desktop\Rami\Tech Material\APress\Documents\First Version\Submitted\Content\Ch08\Code\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.AssemblyInfo.cs
+C:\Users\venvemula\Desktop\Rami\Tech Material\APress\Documents\First Version\Submitted\Content\Ch08\Code\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.dll
+C:\Users\venvemula\Desktop\Rami\Tech Material\APress\Documents\First Version\Submitted\Content\Ch08\Code\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.pdb
+C:\Users\Hau Huynh\Downloads\ASC.Solution (9)\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Business.deps.json
+C:\Users\Hau Huynh\Downloads\ASC.Solution (9)\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Business.dll
+C:\Users\Hau Huynh\Downloads\ASC.Solution (9)\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Business.pdb
+C:\Users\Hau Huynh\Downloads\ASC.Solution (9)\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.DataAccess.dll
+C:\Users\Hau Huynh\Downloads\ASC.Solution (9)\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Models.dll
+C:\Users\Hau Huynh\Downloads\ASC.Solution (9)\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Utilities.dll
+C:\Users\Hau Huynh\Downloads\ASC.Solution (9)\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.DataAccess.pdb
+C:\Users\Hau Huynh\Downloads\ASC.Solution (9)\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Models.pdb
+C:\Users\Hau Huynh\Downloads\ASC.Solution (9)\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Utilities.pdb
+C:\Users\Hau Huynh\Downloads\ASC.Solution (9)\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.csproj.AssemblyReference.cache
+C:\Users\Hau Huynh\Downloads\ASC.Solution (9)\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hau Huynh\Downloads\ASC.Solution (9)\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.AssemblyInfoInputs.cache
+C:\Users\Hau Huynh\Downloads\ASC.Solution (9)\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.AssemblyInfo.cs
+C:\Users\Hau Huynh\Downloads\ASC.Solution (9)\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.csproj.CoreCompileInputs.cache
+C:\Users\Hau Huynh\Downloads\ASC.Solution (9)\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.csproj.CopyComplete
+C:\Users\Hau Huynh\Downloads\ASC.Solution (9)\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.dll
+C:\Users\Hau Huynh\Downloads\ASC.Solution (9)\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.pdb
+C:\Users\ADMIN\Desktop\bao cao kien truc\Chap 8\ASC.Solution (9)\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Business.deps.json
+C:\Users\ADMIN\Desktop\bao cao kien truc\Chap 8\ASC.Solution (9)\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Business.dll
+C:\Users\ADMIN\Desktop\bao cao kien truc\Chap 8\ASC.Solution (9)\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Business.pdb
+C:\Users\ADMIN\Desktop\bao cao kien truc\Chap 8\ASC.Solution (9)\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.DataAccess.dll
+C:\Users\ADMIN\Desktop\bao cao kien truc\Chap 8\ASC.Solution (9)\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Models.dll
+C:\Users\ADMIN\Desktop\bao cao kien truc\Chap 8\ASC.Solution (9)\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Utilities.dll
+C:\Users\ADMIN\Desktop\bao cao kien truc\Chap 8\ASC.Solution (9)\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.DataAccess.pdb
+C:\Users\ADMIN\Desktop\bao cao kien truc\Chap 8\ASC.Solution (9)\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Models.pdb
+C:\Users\ADMIN\Desktop\bao cao kien truc\Chap 8\ASC.Solution (9)\ASC.Solution\ASC.Business\bin\Debug\netcoreapp1.1\ASC.Utilities.pdb
+C:\Users\ADMIN\Desktop\bao cao kien truc\Chap 8\ASC.Solution (9)\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\bao cao kien truc\Chap 8\ASC.Solution (9)\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\bao cao kien truc\Chap 8\ASC.Solution (9)\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\bao cao kien truc\Chap 8\ASC.Solution (9)\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\bao cao kien truc\Chap 8\ASC.Solution (9)\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\bao cao kien truc\Chap 8\ASC.Solution (9)\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\bao cao kien truc\Chap 8\ASC.Solution (9)\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.dll
+C:\Users\ADMIN\Desktop\bao cao kien truc\Chap 8\ASC.Solution (9)\ASC.Solution\ASC.Business\obj\Debug\netcoreapp1.1\ASC.Business.pdb
